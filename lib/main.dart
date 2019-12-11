@@ -4,6 +4,14 @@ void main() {
   runApp(new FriendlychatApp());
 }
 
+class home extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      
+    );
+  }
+}
 const String _name = "Satyam";
 
 class FriendlychatApp extends StatelessWidget {
